@@ -2,6 +2,9 @@
 This repository is based on https://github.com/raulmur/ORB_SLAM2
 I modified it for my dynamic slam project
 
+original version is duplicated from tag: f2e6f51cdc8d067655d90a78c06261378e07e8f3
+
+
 **13 Jan 2017**: OpenCV 3 and Eigen 3.3 are now supported.
 
 **22 Dec 2016**: Added AR demo (see section 7).
