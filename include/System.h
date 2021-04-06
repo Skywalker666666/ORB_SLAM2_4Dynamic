@@ -36,6 +36,9 @@
 #include "ORBVocabulary.h"
 #include "Viewer.h"
 
+//add by skywalker for usleep() error
+#include <unistd.h>
+
 namespace ORB_SLAM2
 {
 
